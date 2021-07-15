@@ -1,3 +1,5 @@
+https://amp.dev/ja/documentation/guides-and-tutorials/start/converting/?format=websites
+
 # accelerated-mobile-pages-foundations
 
 This folder contains the source code for a Google I/O 2016 codelab.
